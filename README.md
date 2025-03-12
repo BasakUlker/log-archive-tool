@@ -35,3 +35,5 @@ logs_archive_20240816_100648.tar.gz
 - tar command-line utility
 
 - bash
+
+Related to: https://roadmap.sh/projects/log-archive-tool
